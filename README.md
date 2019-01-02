@@ -32,10 +32,10 @@
   - Ethernet port
   - DVD-ROM
   - Bluetooth 
+  - Brightness
 
 * Still on working
   - Internal Mic
-  - Brightness
   - Sleep & Wake Cycle (Turn sleep the laptop for 5 minutes and can't turn it on back)
 
 * What's not work?
