@@ -1,4 +1,4 @@
-# Hackintosh 10.14.2 Mojave on ASUS A456UR-GA090D
+# Hackintosh 10.14.3 Mojave on ASUS A456UR-GA090D
 
 * Spec
   - CPU : Intel Core I5 7200U 2.71 Ghz
@@ -36,7 +36,6 @@
 
 * Still on working
   - Internal Mic
-  - Sleep & Wake Cycle (Turn sleep the laptop for 5 minutes and can't turn it on back)
 
 * What's not work?
   - DGPU (Not possible on Hackintosh laptop)
